@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "uhh...where am I...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "I'm pretty sure I was in the park..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "dad, mom, where are you...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childGF",
+			"boxState": "normal",
+			"expression": "Question",
+			"text": "is there someone in there?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "what? who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Question",
+			"text": "I...ah...I live in this house...why are you here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "I don't know, I just...found myself here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Sad",
+			"text": "I'm scared...and I want to go home..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "...I can't get out of here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Lough",
+			"text": "why don't you come with me for a little change of scenery?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "...?"
+		}
+	]
+}

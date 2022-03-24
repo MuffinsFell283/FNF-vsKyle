@@ -1,0 +1,89 @@
+{
+	"position": [
+		0,
+		40
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Leie",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leie normal",
+			"idle_name": "Leie normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "grr",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leie grr",
+			"idle_name": "Leie grr"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hmm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leie hmm",
+			"idle_name": "Leie hmm"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leie hm0",
+			"idle_name": "Leie hm0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "flicker",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leie flicker",
+			"idle_name": "Leie flicker"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "why",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leie why",
+			"idle_name": "Leie why"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "it's pretty fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey, don't you sing today?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyle",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "...I'll stop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "it's interesting..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyle",
+			"boxState": "normal",
+			"expression": "Hmm",
+			"text": "if Lucas is fun, that's enough."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "yes! let's do it together next time in our free time!"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "kyle",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "listen to me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "hmm...are you going the another song for the time being?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beebap!"
+		}
+	]
+}

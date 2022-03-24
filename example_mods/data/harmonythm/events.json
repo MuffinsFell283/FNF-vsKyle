@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.8,
+		"stage": "lei",
+		"player1": "bf",
+		"player2": "lei",
+		"player3": null,
+		"events": [
+			[
+				115789.473684211,
+				[
+					[
+						"Play Animation",
+						"change",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfwithkylewithlucas",
+		"bpm": 171,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Harmonythm"
+	}
+}

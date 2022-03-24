@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		160,
+		20
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "ChildKyle normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ChildKyle normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ChildKyle sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ChildKyle sad",
+			"anim": "Sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ChildKyle smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ChildKyle smile",
+			"anim": "Smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ChildKyle"
+}

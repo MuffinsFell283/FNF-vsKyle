@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "thank you for coming today.",
+			"boxState": "normal",
+			"portrait": "lucas",
+			"speed": 0.05
+		},
+		{
+			"expression": "Hmm",
+			"text": "ah...well...I didin't have any plans so don't worry.",
+			"boxState": "normal",
+			"portrait": "kyle",
+			"speed": 0.05
+		},
+		{
+			"expression": "What",
+			"text": "by the way, was it okay last week?",
+			"boxState": "normal",
+			"portrait": "lucas",
+			"speed": 0.05
+		},
+		{
+			"expression": "Worried",
+			"text": "fortunately, no one died.",
+			"boxState": "normal",
+			"portrait": "lucas",
+			"speed": 0.05
+		},
+		{
+			"expression": "Annoyed",
+			"text": "that's right, I didin't have to make a big deal for the time being...",
+			"boxState": "normal",
+			"portrait": "kyle",
+			"speed": 0.05
+		},
+		{
+			"expression": "Smile",
+			"text": "but the rap battle with Boyfriend looks fun!",
+			"boxState": "normal",
+			"portrait": "lucas",
+			"speed": 0.05
+		},
+		{
+			"expression": "What",
+			"text": "wait, maybe...",
+			"boxState": "normal",
+			"portrait": "lucas",
+			"speed": 0.05
+		},
+		{
+			"expression": "Hmm",
+			"text": "huh?",
+			"boxState": "normal",
+			"portrait": "kyle",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "hi there!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "Smile",
+			"text": "oh, hi!",
+			"boxState": "normal",
+			"portrait": "lucas",
+			"speed": 0.05
+		},
+		{
+			"expression": "Worried",
+			"text": "oh, shit...",
+			"boxState": "normal",
+			"portrait": "kyle",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bep bop beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Normal",
+			"text": "I'm Lucas! is your name a Boyfriend?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		},
+		{
+			"expression": "excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "What",
+			"text": "and then...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Girlfriend, nice to meet you.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "Smile",
+			"text": "nice to meet you too!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		},
+		{
+			"expression": "talk",
+			"text": "bip skeep bop",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "What",
+			"text": "do you want to have a rap battle with me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		},
+		{
+			"expression": "excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Happy",
+			"text": "of course, yes!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		},
+		{
+			"expression": "Worried",
+			"text": "really...? I want to go home.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kyle"
+		},
+		{
+			"expression": "Annoyed",
+			"text": "I don't want to get involved with these guys in the first place...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kyle"
+		},
+		{
+			"expression": "Angry",
+			"text": "don't say that, you just want to have a rap battle together.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		},
+		{
+			"expression": "Worried",
+			"text": "....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kyle"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Smile",
+			"text": "it's okay, let's get started!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucas"
+		}
+	]
+}

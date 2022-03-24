@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "Happy",
+			"text": "nice to meet you!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucasi"
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Normal",
+			"text": "I'm Idin Monos, as you can see, I'm an angel.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucasi"
+		},
+		{
+			"expression": "Smile",
+			"text": "even if it looks like this, I like singing, can you compete with me for the last song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucasi"
+		},
+		{
+			"expression": "pissed",
+			"text": "bop beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't mind.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "Smile",
+			"text": "...well",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucasi"
+		},
+		{
+			"expression": "Shadowhappy",
+			"text": "I'll do it seriously, though.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "lucasi"
+		},
+		{
+			"expression": "talk",
+			"text": "bop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "Worried",
+			"text": "(unlike Lucas, this guy is a little weak...)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kyle"
+		}
+	]
+}

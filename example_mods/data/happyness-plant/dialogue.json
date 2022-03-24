@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "hmm",
+			"text": "I don't like it when Lei doesn't listen to anyone at all....haha...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "It's becoming a pattern now."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "hm",
+			"text": "Oh, I knew you didn't respond well."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Demons, angels... what about you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Aid. I looks like this, but I'm a fine fairy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "hm",
+			"text": "I've been spending some time with this guy since he grabbed me before."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Aid, be careful, he is a strong guy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "grr",
+			"text": "Rap battles... I'm not good at singing..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "flicker",
+			"text": "...I have an idea!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lukyle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Reported."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "why",
+			"text": "Why are you breathing so perfectly!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Hehe",
+			"text": "Sorry, sorry, reflection..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "hm",
+			"text": "Hmm, ah... sorry to keep you waiting."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "leia",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Let's get started!"
+		}
+	]
+}

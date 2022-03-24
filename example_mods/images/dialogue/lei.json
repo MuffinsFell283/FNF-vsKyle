@@ -1,0 +1,115 @@
+{
+	"position": [
+		0,
+		40
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Lei",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei normal",
+			"idle_name": "Lei normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei happy0",
+			"idle_name": "Lei happy0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei happy2",
+			"idle_name": "Lei happy2"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei smile",
+			"idle_name": "Lei smile"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "oh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei oh",
+			"idle_name": "Lei oh"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "wink",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei wink",
+			"idle_name": "Lei wink"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "cute",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei cute",
+			"idle_name": "Lei cute"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lei what",
+			"idle_name": "Lei what"
+		}
+	]
+}

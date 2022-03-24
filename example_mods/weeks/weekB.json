@@ -1,0 +1,31 @@
+{
+	"storyName": "Demon in the Kyle",
+	"difficulties": "Extra",
+	"hideFreeplay": false,
+	"weekBackground": "blent",
+	"weekBefore": "weekKyleAgo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Ecstasy-EX",
+			"kyleb",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"blent",
+		"bf",
+		"gf"
+	],
+	"weekName": "BlentWeek"
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="KYLEB.png"><SubTexture name="KYLEB normal0000" x="0" y="0" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+<SubTexture name="KYLEB smile0000" x="0" y="414" width="414" height="414" frameX="0" frameY="0" frameWidth="414" frameHeight="414" />
+</TextureAtlas>

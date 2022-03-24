@@ -1,0 +1,49 @@
+{
+	"storyName": "Demon in the Kyle",
+	"difficulties": "Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "blent",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekKyleAgo",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"blent",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutoriality",
+			"blent",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Rejoice",
+			"blent",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Performance",
+			"blent",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "BlentWeek"
+}

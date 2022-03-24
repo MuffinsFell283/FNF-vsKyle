@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beeeeeeeep...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh? I think I used the wrong magic..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There's nothing here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, let's get out of here."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Oh, you guys came all the way to see me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh, who are you?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "blent",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "Hey! We had a rap battle the other day, Blent!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, is this the inside of that person?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Well, yes."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Heh",
+			"text": "Just in time, a revenge match for the other night!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmm, What do we do?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bop bap!"
+		}
+	]
+}

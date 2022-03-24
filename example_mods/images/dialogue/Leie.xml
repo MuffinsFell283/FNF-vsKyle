@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Leie.png"><SubTexture name="Leie normal0000" x="464" y="0" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Leie grr0000" x="888" y="0" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Leie hmm0000" x="0" y="500" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Leie hm0000" x="424" y="500" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Leie flicker0000" x="848" y="500" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Leie why0000" x="0" y="0" width="464" height="500" frameX="-36" frameY="0" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

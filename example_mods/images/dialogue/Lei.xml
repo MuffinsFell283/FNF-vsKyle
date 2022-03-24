@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lei.png"><SubTexture name="Lei normal0000" x="0" y="0" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei happy0000" x="424" y="0" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei happy20000" x="848" y="0" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei smile0000" x="0" y="499" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei oh0000" x="424" y="499" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei wink0000" x="848" y="499" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei cute0000" x="1272" y="0" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+<SubTexture name="Lei what0000" x="1272" y="499" width="424" height="499" frameX="-36" frameY="-1" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

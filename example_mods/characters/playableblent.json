@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Blent idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Blent idle",
+			"indices": [
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Blent up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Blent up",
+			"indices": [
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Blent down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Blent down",
+			"indices": [
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Blent right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				100,
+				-10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Blent right",
+			"indices": [
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Blent left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-130,
+				-20
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Blent left",
+			"indices": [
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blent",
+	"position": [
+		-260,
+		-180
+	],
+	"healthicon": "blent",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

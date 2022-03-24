@@ -1,0 +1,76 @@
+{
+	"position": [
+		130,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "Lucasi",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lucasi normal",
+			"idle_name": "Lucasi normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "Smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Lucasi smile",
+			"idle_name": "Lucasi smile"
+		},
+		{
+			"loop_name": "Lucasi happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucasi happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Lucasi shadowsmile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucasi shadowsmile",
+			"anim": "Shadowsmile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Lucasi shadowhappy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucasi shadowhappy",
+			"anim": "Shadowhappy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.03,
+			"portrait": "blent",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "WHY CAN'T I WIN!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "bap beeeeeeeeep??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "I'm so fucking pissed off..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Heh",
+			"text": "Well, well, this is just the beginning."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay, let's go for another songs."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "angry",
+			"expression": "Happy",
+			"text": "I'm gonna beat the crap out of you this time!"
+		}
+	]
+}

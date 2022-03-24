@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "NewMenuKyle idle",
+	"position": [
+		80,
+		330
+	],
+	"scale": 0.4,
+	"image": "NewMenuKyle"
+}

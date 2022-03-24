@@ -1,0 +1,186 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "angry",
+			"expression": "happy1",
+			"text": "KYLEEEEE!! LUCAAAAAS!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Oh, Lei! Hmmm... you're 30 minutes late."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "oh",
+			"text": "Sorry, sorry. I overslept..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Worried",
+			"text": "I can't help it..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "happy2",
+			"text": "Hey, hey, tell us more about the boy who sings well that Kyle and Lucas say they met!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyle",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "It's not that interesting..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "That's fine Kyle, it doesn't diminish it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "happy2",
+			"text": "Hey! What was he like?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "...oh, just like that one."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "cute",
+			"text": "Wow! So cute!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Hehe",
+			"text": "I guess it's called \"speak of the devil and you shall know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bap skebop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyle",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "Hey, another rap battle, how could you ever get tired of..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Even Kyle like that, even though he likes to sing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyle",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Be silly, I like it, but why should I fight you over it?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "cute",
+			"text": "Hey, how old are you? How tall are you? You're so tiny and really cute! Who are your mother and father?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He may look like this, but he's 19 years old."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "Wow, you surprised me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "GF!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi, um..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "wink",
+			"text": "I'm Lei! Nice to meet you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GF, this is my boyfriend's BF, nice to meet you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop bap skdoo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Rap battle? With me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "happy1",
+			"text": "Okay! Looks interesting!"
+		}
+	]
+}

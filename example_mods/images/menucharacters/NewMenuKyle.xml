@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NewMenuKyle.png">
+<SubTexture name="NewMenuKyle idle0000" x="0" y="0" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0001" x="0" y="0" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0002" x="374" y="0" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0003" x="374" y="0" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0004" x="0" y="1004" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0005" x="0" y="1004" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0006" x="374" y="1004" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0007" x="374" y="1004" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0008" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0009" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0010" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0011" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0012" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0013" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0014" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0015" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0016" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0017" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0018" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0019" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0020" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+<SubTexture name="NewMenuKyle idle0021" x="0" y="2008" width="374" height="1004" frameX="0" frameY="0" frameWidth="374" frameHeight="1004" />
+</TextureAtlas>

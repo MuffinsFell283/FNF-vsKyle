@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kyle idle"
+		},
+		{
+			"offsets": [
+				81,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kyle left"
+		},
+		{
+			"offsets": [
+				-14,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kyle up"
+		},
+		{
+			"offsets": [
+				37,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kyle down"
+		},
+		{
+			"offsets": [
+				-20,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kyle right"
+		},
+		{
+			"offsets": [
+				81,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "Kyle left"
+		},
+		{
+			"offsets": [
+				-14,
+				47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "Kyle up"
+		},
+		{
+			"offsets": [
+				37,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "Kyle down"
+		},
+		{
+			"offsets": [
+				-20,
+				47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "Kyle right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kyle",
+	"position": [
+		50,
+		-10
+	],
+	"healthicon": "kyle",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		0,
+		13
+	],
+	"camera_position": [
+		-10,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

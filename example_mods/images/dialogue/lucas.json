@@ -1,0 +1,102 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		100,
+		40
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas normal",
+			"loop_name": "Lucas normal"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Angry",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas angry",
+			"loop_name": "Lucas angry"
+		},
+		{
+			"loop_name": "Lucas worried",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas worried",
+			"anim": "Worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Lucas hehe",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas hehe",
+			"anim": "Hehe",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Lucas happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Lucas what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas what",
+			"anim": "What",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Lucas smile",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Lucas smile",
+			"anim": "Smile",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Lucas"
+}

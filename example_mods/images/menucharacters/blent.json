@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_blent idle",
+	"image": "Menu_Blent",
+	"position": [
+		160,
+		74
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_ChildkyleS idle",
+	"image": "Menu_Childkyle",
+	"position": [
+		100,
+		50
+	],
+	"scale": 0.7,
+	"confirm_anim": "Menu_ChildkyleS idle"
+}

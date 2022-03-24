@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MagicAura.png"><SubTexture name="MagicAura idle0000" x="0" y="0" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0001" x="1004" y="0" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0002" x="2008" y="0" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0003" x="3012" y="0" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0004" x="0" y="504" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0005" x="1004" y="504" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0006" x="2008" y="504" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0007" x="3012" y="504" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0008" x="0" y="1008" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0009" x="1004" y="1008" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0010" x="2008" y="1008" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0011" x="3012" y="1008" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0012" x="0" y="1512" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0013" x="1004" y="1512" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0014" x="2008" y="1512" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0015" x="3012" y="1512" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0016" x="0" y="2016" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0017" x="1004" y="2016" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0018" x="2008" y="2016" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+<SubTexture name="MagicAura idle0019" x="3012" y="2016" width="1004" height="504" frameX="0" frameY="0" frameWidth="1004" frameHeight="504" />
+</TextureAtlas>

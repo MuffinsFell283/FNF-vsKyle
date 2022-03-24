@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "hmm..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Question",
+			"text": "(I don't know what to do...why did they bring hehere?)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Question",
+			"text": "(oh my god, this book is...)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "what's wrong?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "no, it's nothing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "well...maybe it's time for the last song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Lough",
+			"text": "let's have some fun at the end!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "can you keep up?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "I'll try my best!"
+		}
+	]
+}

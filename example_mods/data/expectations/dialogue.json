@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "KYLE",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "what? who the hell are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bap skebop bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "KYLE",
+			"boxState": "normal",
+			"expression": "Hmm",
+			"text": "a Boyfriend?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "KYLE",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "uh...I'm sorry, can you just leave it alone? I'm not in the mood."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bo bi bep skdoo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "KYLE",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "didn't you hear me? I said, leave me alone."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "....beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "KYLE",
+			"boxState": "normal",
+			"expression": "Annoyed",
+			"text": "... *sigh* just one song..."
+		}
+	]
+}

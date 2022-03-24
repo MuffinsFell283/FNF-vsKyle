@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "cute",
+			"text": "Wow, wow, wow, BF, you must be a great rapper!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lucas",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "Kyle and I are both losing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "Wow..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "lei",
+			"boxState": "normal",
+			"expression": "happy1",
+			"text": "Okay, well, if you win the second song too, I'll show you something special!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bop bap beeee!"
+		}
+	]
+}

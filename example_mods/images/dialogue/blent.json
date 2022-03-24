@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		0
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"loop_name": "Blent normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blent normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Blent heh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blent heh",
+			"anim": "Heh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Blent happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blent happy",
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Blent annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blent annoyed",
+			"anim": "Annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Blent question",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blent question",
+			"anim": "Question",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Blent angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Blent angry",
+			"anim": "Angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Blent"
+}

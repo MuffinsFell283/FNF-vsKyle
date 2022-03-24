@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "NewKyle idle"
+		},
+		{
+			"offsets": [
+				64,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "NewKyle left"
+		},
+		{
+			"offsets": [
+				-18,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "NewKyle up"
+		},
+		{
+			"offsets": [
+				7,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "NewKyle down"
+		},
+		{
+			"offsets": [
+				-26,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "NewKyle right"
+		},
+		{
+			"offsets": [
+				30,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "change",
+			"indices": [],
+			"name": "NewKyle change"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NewKyle",
+	"position": [
+		20,
+		-160
+	],
+	"healthicon": "kyle",
+	"flip_x": false,
+	"healthbar_colors": [
+		154,
+		0,
+		13
+	],
+	"camera_position": [
+		140,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

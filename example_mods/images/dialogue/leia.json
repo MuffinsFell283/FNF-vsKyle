@@ -1,0 +1,89 @@
+{
+	"position": [
+		0,
+		40
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Leia",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leia normal",
+			"idle_name": "Leia normal"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "grr",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leia grr",
+			"idle_name": "Leia grr"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hmm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leia hmm",
+			"idle_name": "Leia hmm"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leia hm0",
+			"idle_name": "Leia hm0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "flicker",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leia flicker",
+			"idle_name": "Leia flicker"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "why",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Leia why",
+			"idle_name": "Leia why"
+		}
+	]
+}

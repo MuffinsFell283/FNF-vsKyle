@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "LucasI idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LucasI left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LucasI up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LucasI down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LucasI right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				78,
+				-7
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "LucasI left",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "LucasI up",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-19,
+				-2
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "LucasI down",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				39,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "LucasI right",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LucasI",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "lucasi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		80,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

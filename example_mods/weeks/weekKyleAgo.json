@@ -1,0 +1,49 @@
+{
+  "storyName": "Kyle in the past",
+  "difficulties": "Easy,Normal,Hard",
+  "hideFreeplay": false,
+  "weekBackground": "kyleago",
+  "weekBefore": "weekLucas",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": false,
+  "hideStoryMode": false,
+  "songs": [
+    [
+      "anxiety",
+      "gf",
+      [
+        165,
+        0,
+        77
+      ]
+    ],
+    [
+      "step-up",
+      "gf",
+      [
+        165,
+        0,
+        77
+      ]
+    ],
+    [
+      "crumble",
+      "gf",
+      [
+        165,
+        0,
+        77
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "",
+    "childkyle",
+    ""
+  ],
+  "weekName": "Kyleweek3"
+}

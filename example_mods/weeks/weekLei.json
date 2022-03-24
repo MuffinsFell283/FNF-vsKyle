@@ -1,0 +1,49 @@
+{
+	"storyName": "The lone woman in a group",
+	"difficulties": "Easy,Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "lei",
+	"weekBefore": "weekLucas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+    [
+      "You-are-nice",
+      "lei",
+      [
+        21,
+        140,
+        0
+      ]
+    ],
+    [
+      "Harmonythm",
+      "lei",
+      [
+        21,
+        140,
+        0
+      ]
+    ],
+    [
+      "Happyness-plant",
+      "leia",
+      [
+        21,
+        140,
+        0
+      ]
+    ]
+	],
+	"weekCharacters": [
+		"lei",
+		"bf",
+		"gf"
+	],
+	"weekName": "Kyleweek3"
+}

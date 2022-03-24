@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "ehehe, it's kinda fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Lough",
+			"text": "that's good to know, do you like to sing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "...a little bit."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "but I'm not tone deaf?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "don't worry, you're a better singer than you think you are."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childkyle",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "I don't know..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "childgf",
+			"boxState": "normal",
+			"expression": "Lough",
+			"text": "let's make it a little more fun this time."
+		}
+	]
+}

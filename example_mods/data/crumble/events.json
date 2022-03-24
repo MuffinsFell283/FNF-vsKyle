@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.70000000000002,
+		"stage": "Study",
+		"player1": "childkyles",
+		"player2": "childgfs",
+		"player3": null,
+		"events": [
+			[
+				84000,
+				[
+					[
+						"DoorOpen",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "speakers",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Crumble"
+	}
+}

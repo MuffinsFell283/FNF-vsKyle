@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "blent",
+		"player1": "bf",
+		"player2": "blent",
+		"player3": null,
+		"events": [
+			[
+				28695.6521739131,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31304.347826087,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				31826.0869565218,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.06"
+					]
+				]
+			],
+			[
+				32347.8260869565,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			],
+			[
+				32869.5652173913,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						"0.09"
+					]
+				]
+			],
+			[
+				32902.1739130435,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 115,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "rejoice"
+	}
+}

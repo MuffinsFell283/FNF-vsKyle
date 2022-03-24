@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.5,
+		"stage": "future",
+		"player1": "bf",
+		"player2": "nkyle",
+		"player3": null,
+		"events": [
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"1",
+						"nfullkyle"
+					]
+				]
+			],
+			[
+				70800,
+				[
+					[
+						"Change Character",
+						"0",
+						"nbf"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"2",
+						"ngf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Unselfish"
+	}
+}

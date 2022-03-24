@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "angry",
+			"expression": "Smile",
+			"text": "HAHAHAHAHAHAHAHAHAHAHAHA!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "*scared beep bops*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "angry",
+			"expression": "Normal",
+			"text": "HEY HEY HEYYYY!!YOU'R DOING SOMETHING THAT LOOKS FUN!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "angry",
+			"expression": "Smile",
+			"text": "LET ME TRY THAT!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bop beep bap...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "OH, IS THAT ME?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "angry",
+			"expression": "Smile",
+			"text": "I'M BLENT DROUTH THE LIGHTNING BOLT DEMON!!YOU CAN CALL ME BLENT!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "normal",
+			"expression": "Normal",
+			"text": "FOR SOME REASON, I'M BORROWING HIS BODY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "normal",
+			"expression": "Smile",
+			"text": "HAHAHAHA!! I DON'T MIND THE SCARY STUFF!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "angry",
+			"expression": "Normal",
+			"text": "LET'S ENJOY THIS TIME!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "kyleb",
+			"boxState": "angry",
+			"expression": "Smile",
+			"text": "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!!!"
+		}
+	]
+}

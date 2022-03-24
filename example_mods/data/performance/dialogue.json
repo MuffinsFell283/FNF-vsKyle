@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Angry",
+			"text": "Son of a bitch...!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Next and last time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep skebop"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "blent",
+			"boxState": "angry",
+			"expression": "Angry",
+			"text": "Rap battles and shit! I'll electrocute you all together!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop bap skeep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "normal",
+			"expression": "Heh",
+			"text": "Ha, you think it's just that lightning anyway."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blent",
+			"boxState": "angry",
+			"expression": "Happy",
+			"text": "I'M THE WINNER!!"
+		}
+	]
+}

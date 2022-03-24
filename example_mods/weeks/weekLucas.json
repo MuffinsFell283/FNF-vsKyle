@@ -1,0 +1,49 @@
+{
+  "storyName": "In contrast to him",
+  "difficulties": "Easy,Normal,Hard",
+  "hideFreeplay": false,
+  "weekBackground": "lucas",
+  "weekBefore": "weekKyle",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": false,
+  "songs": [
+    [
+      "Friendly",
+      "lucas",
+      [
+        255,
+        252,
+        0
+      ]
+    ],
+    [
+      "Enjoy",
+      "lucas",
+      [
+        255,
+        252,
+        0
+      ]
+    ],
+    [
+      "Lets play",
+      "lucasi",
+      [
+        255,
+        252,
+        0
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekCharacters": [
+    "lucas",
+    "bf",
+    "gf"
+  ],
+  "weekName": "Kyleweek2"
+}

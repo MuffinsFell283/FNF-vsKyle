@@ -1,0 +1,49 @@
+{
+  "storyName": "Lightning in the back alley",
+  "difficulties": "Easy,Normal,Hard",
+  "hideFreeplay": false,
+  "weekBackground": "kyle",
+  "weekBefore": "tutorial",
+  "freeplayColor": [
+    146,
+    113,
+    253
+  ],
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "weekCharacters": [
+    "newmenukyle",
+    "bf",
+    "gf"
+  ],
+  "songs": [
+    [
+      "Expectations",
+      "KYLE",
+      [
+        195,
+        53,
+        33
+      ]
+    ],
+    [
+      "Suspicion",
+      "KYLE",
+      [
+        195,
+        53,
+        33
+      ]
+    ],
+    [
+      "Ecstasy",
+      "KYLEb",
+      [
+        195,
+        53,
+        33
+      ]
+    ]
+  ],
+  "weekName": "Kyleweek1"
+}

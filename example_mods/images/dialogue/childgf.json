@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		10,
+		50
+	],
+	"scale": 1.5,
+	"animations": [
+		{
+			"loop_name": "ChildGF normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ChildGF normal",
+			"anim": "Normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ChildGF question",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ChildGF question",
+			"anim": "Question",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ChildGF lough",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ChildGF lough",
+			"anim": "Lough",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ChildGF"
+}

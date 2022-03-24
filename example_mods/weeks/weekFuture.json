@@ -1,0 +1,50 @@
+{
+	"storyName": "The Future Will Pass",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "future",
+	"weekBefore": "weekLucas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"I-want-to-live",
+			"nkyle",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Leave-me-alone",
+			"nkyle",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Unselfish",
+			"nkyle",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "weekFuture"
+}

@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "lei",
+		"player1": "bf",
+		"player2": "leia",
+		"player3": null,
+		"events": [
+			[
+				7017.54385964912,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15438.5964912281,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35087.7192982456,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40701.7543859649,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44912.2807017544,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46666.6666666667,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51929.8245614035,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63157.8947368421,
+				[
+					[
+						"Aid Attack",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfwithkylewithlucas",
+		"bpm": 171,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Happyness-plant"
+	}
+}
